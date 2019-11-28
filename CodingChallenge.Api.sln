@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingChallenge.Api", "CodingChallenge.Api\CodingChallenge.Api.csproj", "{8E213102-DB35-41F8-A575-CF093EB34D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Test", "CodingChallenge.Test\CodingChallenge.Test.csproj", "{6370955B-07EE-4350-A9A5-2D681C9F0E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E213102-DB35-41F8-A575-CF093EB34D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E213102-DB35-41F8-A575-CF093EB34D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E213102-DB35-41F8-A575-CF093EB34D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E213102-DB35-41F8-A575-CF093EB34D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6370955B-07EE-4350-A9A5-2D681C9F0E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6370955B-07EE-4350-A9A5-2D681C9F0E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6370955B-07EE-4350-A9A5-2D681C9F0E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6370955B-07EE-4350-A9A5-2D681C9F0E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A92ED74-CAD7-4F8E-8BB5-E27EDFAFC239}
+	EndGlobalSection
+EndGlobal
